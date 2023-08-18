@@ -1,11 +1,12 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Spoked Printer",
+  "name": "Spoked Printer",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src":"maskable.png",
+      "size":"196x196",
+      "type":"image/png",
+      "purpose":"any maskable"
     },
     {
       "src": "logo192.png",
@@ -23,3 +24,4 @@
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
+
